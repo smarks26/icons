@@ -1,1 +1,3 @@
-# Material-Symbols
+# Icons
+
+My favorite icons
